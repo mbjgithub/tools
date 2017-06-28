@@ -2,3 +2,6 @@ git branch develop
 git checkout develop
 git checkout -b develop
 git merge
+
+git push
+
